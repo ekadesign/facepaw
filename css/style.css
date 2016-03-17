@@ -1,0 +1,79 @@
+body{
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+.logo {
+    text-align: justify;
+}
+
+.nav>li>a{
+    padding: 0px 5px 0px 5px;
+    color: #ccc;
+}
+.nav>li>a:hover{
+background: none;
+    color: #337ab7;
+}
+
+.fantlab>a{
+    padding: 0px 5px 0px 5px;
+    color: #ccc;
+}
+.fantlab>a:hover{
+    background: none;
+    color: #337ab7;
+}
+
+.bookheader{
+
+}
+.bookimage{
+}
+.bookdesc{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.bookcomments{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.bookawards>ul>li{
+    text-align: justify;
+}
+.booksimilar>ul>li{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+
+.booksheader{
+margin-bottom:20px;
+}
+
+.booksimage{
+    height: 300px;
+    width: 200px;
+}
+.booksrow{
+}
+
+.booksauthor{
+    font-size: 20px;
+}
+.booksname{
+    font-size: 20px;
+}
+.booksepisode{
+    font-size: 20px;
+
+}
+.booksdesc{
+    font-size: 20px;
+}
+
+.booksdesctext{
+    font-size: 14px;
+}
